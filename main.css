@@ -1,0 +1,34 @@
+table{
+	width: 100%;
+}
+#display{
+	width: 590px;
+	height: 40px;
+	background-color: black;
+	padding: 5px;
+	margin:0;
+	color: #fff;
+	text-align: right;
+	font-size: 25px;
+}
+
+
+.calNumber{
+	width: 600px;
+}
+.buttons{
+	width: 50px;
+	height: 50px;
+}
+.btN{
+	width: 100%;
+	height: 100%;
+	font-size: 25px;
+}
+button{
+	border-radius: 10px;
+}
+
+
+
+
